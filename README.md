@@ -1,2 +1,3 @@
 # ThaparBlogs
-Using Web Dev technologies Created Thapar Blogs website
+Using HTML,CSS and javascript Created Thapar Blogs website
+* Locally hosted
